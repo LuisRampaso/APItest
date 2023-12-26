@@ -1,5 +1,7 @@
 # Web Scraper e API FastAPI para Salvamento e Recuperação de Citações
 
+Site utilizado no lugar do site SimilarWeb pois o mesmo não aceita práticas de scrapy em seu site, logo peguei um site de exemplo, sendo possível apenas atualizando a função da raspagem utilizá-la em outros sites e aplicações.
+
 Este projeto é uma aplicação FastAPI para realizar scraping de citações de um site e salvar os dados em um banco de dados MongoDB.
 
 ## Funcionalidades
